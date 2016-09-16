@@ -1,0 +1,4 @@
+This is a file
+There are 3 lines
+
+There was a line before this one that was blank.
